@@ -6,7 +6,7 @@ Adds achievements for player difficulties to the in-game list.
 - No Journey Mode
 - No Celebrationmk10 Seed
 
-## Restrictions
+## In-Game Restrictions
 The use of certain items is blocked based on the current world progression (e.g. you can't use post-Moon Lord items before defeating Moon Lord, etc.).
 
 ## Contribute
