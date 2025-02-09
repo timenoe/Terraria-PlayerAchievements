@@ -1,0 +1,138 @@
+Achievements: {
+	PLAYER_MEDIUMCORE_TIMBER_Name: Chop 'Til You Drop
+	PLAYER_MEDIUMCORE_TIMBER_Description: Chop down a tree with a Mediumcore player.
+	PLAYER_MEDIUMCORE_BENCHED_Name: The Guide's Apprentice
+	PLAYER_MEDIUMCORE_BENCHED_Description: Craft your first Work Bench with a Mediumcore player.
+	PLAYER_MEDIUMCORE_NO_HOBO_Name: Totally Not the Bare Minimum
+	PLAYER_MEDIUMCORE_NO_HOBO_Description: Successfully get an NPC to move into your first house with a Mediumcore player.
+	PLAYER_MEDIUMCORE_OBTAIN_HAMMER_Name: Go With the Flow
+	PLAYER_MEDIUMCORE_OBTAIN_HAMMER_Description: Obtain a hammer with a Mediumcore player.
+	PLAYER_MEDIUMCORE_OOO_SHINY_Name: Oresome Discovery
+	PLAYER_MEDIUMCORE_OOO_SHINY_Description: Mine your first ore with a Mediumcore player.
+	PLAYER_MEDIUMCORE_HEART_BREAKER_Name: Dream Maker
+	PLAYER_MEDIUMCORE_HEART_BREAKER_Description: Find and break a Life Crystal with a Mediumcore player.
+	PLAYER_MEDIUMCORE_HEAVY_METAL_Name: Rock Solid
+	PLAYER_MEDIUMCORE_HEAVY_METAL_Description: Obtain your first Iron or Lead Anvil with a Mediumcore player.
+	PLAYER_MEDIUMCORE_I_AM_LOOT_Name: Gimme the Loot
+	PLAYER_MEDIUMCORE_I_AM_LOOT_Description: Open an underground Gold Chest with a Mediumcore player.
+	PLAYER_MEDIUMCORE_STAR_POWER_Name: Crystal Channeller
+	PLAYER_MEDIUMCORE_STAR_POWER_Description: Consume your first Mana Crystal with a Mediumcore player.
+	PLAYER_MEDIUMCORE_HOLD_ON_TIGHT_Name: Hookshot Hero
+	PLAYER_MEDIUMCORE_HOLD_ON_TIGHT_Description: Equip a grappling hook with a Mediumcore player.
+	PLAYER_MEDIUMCORE_EYE_ON_YOU_Name: One Eye Open
+	PLAYER_MEDIUMCORE_EYE_ON_YOU_Description: Defeat the Eye of Cthulhu for the first time with a Mediumcore player.
+	PLAYER_MEDIUMCORE_SMASHING_POPPET_Name: Shiny and Oh So Bright
+	PLAYER_MEDIUMCORE_SMASHING_POPPET_Description: Smash your first Shadow Orb or Crimson Heart with a Mediumcore player.
+	PLAYER_MEDIUMCORE_WHERES_MY_HONEY_Name: Oh, Honey
+	PLAYER_MEDIUMCORE_WHERES_MY_HONEY_Description: Discover your first Bee Hive with a Mediumcore player.
+	PLAYER_MEDIUMCORE_STING_OPERATION_Name: Bee Gone
+	PLAYER_MEDIUMCORE_STING_OPERATION_Description: Defeat the Queen Bee for the first time with a Mediumcore player.
+	PLAYER_MEDIUMCORE_BONED_Name: Bone to Pick
+	PLAYER_MEDIUMCORE_BONED_Description: Defeat Skeletron for the first time with a Mediumcore player.
+	PLAYER_MEDIUMCORE_DUNGEON_HEIST_Name: Slimy Spoils
+	PLAYER_MEDIUMCORE_DUNGEON_HEIST_Description: Unlock your first Gold Chest within the Dungeon with a Mediumcore player.
+	PLAYER_MEDIUMCORE_ITS_GETTING_HOT_IN_HERE_Name: I'm Getting So Hot
+	PLAYER_MEDIUMCORE_ITS_GETTING_HOT_IN_HERE_Description: Reach The Underworld for the first time with a Mediumcore player.
+	PLAYER_MEDIUMCORE_MINER_FOR_FIRE_Name: Forged in Flames
+	PLAYER_MEDIUMCORE_MINER_FOR_FIRE_Description: Craft a Molten Pickaxe with a Mediumcore player.
+	PLAYER_MEDIUMCORE_STILL_HUNGRY_Name: Feeding Frenzy
+	PLAYER_MEDIUMCORE_STILL_HUNGRY_Description: Defeat the Wall of Flesh for the first time with a Mediumcore player.
+	PLAYER_MEDIUMCORE_ITS_HARD_Name: Essence of Light
+	PLAYER_MEDIUMCORE_ITS_HARD_Description: Enter Hardmode with a Mediumcore player.
+	PLAYER_MEDIUMCORE_BEGONE_EVIL_Name: Demon Destroyer
+	PLAYER_MEDIUMCORE_BEGONE_EVIL_Description: Smash a demon or crimson altar with a Mediumcore player.
+	PLAYER_MEDIUMCORE_EXTRA_SHINY_Name: Metallic Madness
+	PLAYER_MEDIUMCORE_EXTRA_SHINY_Description: Mine your first Hardmode ore with a Mediumcore player.
+	PLAYER_MEDIUMCORE_HEAD_IN_THE_CLOUDS_Name: To the Moon
+	PLAYER_MEDIUMCORE_HEAD_IN_THE_CLOUDS_Description: Equip a pair of wings with a Mediumcore player.
+	PLAYER_MEDIUMCORE_BUCKETS_OF_BOLTS_Name: Heap of Junk
+	PLAYER_MEDIUMCORE_BUCKETS_OF_BOLTS_Description: Defeat all three mechanical bosses with a Mediumcore player.
+	PLAYER_MEDIUMCORE_DRAX_ATTAX_Name: Not a Picksaw
+	PLAYER_MEDIUMCORE_DRAX_ATTAX_Description: Craft your first Drax or Pickaxe Axe with a Mediumcore player.
+	PLAYER_MEDIUMCORE_PHOTOSYNTHESIS_Name: Plant Power
+	PLAYER_MEDIUMCORE_PHOTOSYNTHESIS_Description: Mine your first Chlorophyte Ore with a Mediumcore player.
+	PLAYER_MEDIUMCORE_GET_A_LIFE_Name: Entering a Career
+	PLAYER_MEDIUMCORE_GET_A_LIFE_Description: Consume a Life Fruit with a Mediumcore player.
+	PLAYER_MEDIUMCORE_THE_GREAT_SOUTHERN_PLANTKILL_Name: Far Beyond the Jungle
+	PLAYER_MEDIUMCORE_THE_GREAT_SOUTHERN_PLANTKILL_Description: Defeat Plantera for the first time with a Mediumcore player.
+	PLAYER_MEDIUMCORE_TEMPLE_RAIDER_Name: La-Mulana
+	PLAYER_MEDIUMCORE_TEMPLE_RAIDER_Description: Unlock the Jungle Temple's Lihzahrd Door with a Mediumcore player.
+	PLAYER_MEDIUMCORE_LIHZAHRDIAN_IDOL_Name: Off to See the Lizard
+	PLAYER_MEDIUMCORE_LIHZAHRDIAN_IDOL_Description: Defeat Golem for the first time with a Mediumcore player.
+	PLAYER_MEDIUMCORE_ROBBING_THE_GRAVE_Name: From Beyond the Grave
+	PLAYER_MEDIUMCORE_ROBBING_THE_GRAVE_Description: Obtain a rare item from an enemy in the post-Plantera Dungeon with a Mediumcore player.
+	PLAYER_MEDIUMCORE_OBSESSIVE_DEVOTION_Name: Cult of the Moon
+	PLAYER_MEDIUMCORE_OBSESSIVE_DEVOTION_Description: Defeat the Lunatic Cultist for the first time with a Mediumcore player.
+	PLAYER_MEDIUMCORE_STAR_DESTROYER_Name: Shoot for the Moon
+	PLAYER_MEDIUMCORE_STAR_DESTROYER_Description: Defeat all four Celestial Pillars with a Mediumcore player.
+	PLAYER_MEDIUMCORE_CHAMPION_OF_TERRARIA_Name: Great Old One
+	PLAYER_MEDIUMCORE_CHAMPION_OF_TERRARIA_Description: Defeat the Moon Lord for the first time with a Mediumcore player.
+	PLAYER_HARDCORE_TIMBER_Name: Root Awakening
+	PLAYER_HARDCORE_TIMBER_Description: Chop down a tree with a Hardcore player.
+	PLAYER_HARDCORE_BENCHED_Name: Get to Work!
+	PLAYER_HARDCORE_BENCHED_Description: Craft your first Work Bench with a Hardcore player.
+	PLAYER_HARDCORE_NO_HOBO_Name: Terraria's Best Landlord
+	PLAYER_HARDCORE_NO_HOBO_Description: Successfully get an NPC to move into your first house with a Hardcore player.
+	PLAYER_HARDCORE_OBTAIN_HAMMER_Name: Bust a Few Moves
+	PLAYER_HARDCORE_OBTAIN_HAMMER_Description: Obtain a hammer with a Hardcore player.
+	PLAYER_HARDCORE_OOO_SHINY_Name: Treasure Trove
+	PLAYER_HARDCORE_OOO_SHINY_Description: Mine your first ore with a Hardcore player.
+	PLAYER_HARDCORE_HEART_BREAKER_Name: Love Taker
+	PLAYER_HARDCORE_HEART_BREAKER_Description: Find and break a Life Crystal with a Hardcore player.
+	PLAYER_HARDCORE_HEAVY_METAL_Name: Iron Will
+	PLAYER_HARDCORE_HEAVY_METAL_Description: Obtain your first Iron or Lead Anvil with a Hardcore player.
+	PLAYER_HARDCORE_I_AM_LOOT_Name: What's Yours Is Mine
+	PLAYER_HARDCORE_I_AM_LOOT_Description: Open an underground Gold Chest with a Hardcore player.
+	PLAYER_HARDCORE_STAR_POWER_Name: Magic Multiplier
+	PLAYER_HARDCORE_STAR_POWER_Description: Consume your first Mana Crystal with a Hardcore player.
+	PLAYER_HARDCORE_HOLD_ON_TIGHT_Name: Captain Hook
+	PLAYER_HARDCORE_HOLD_ON_TIGHT_Description: Equip a grappling hook with a Hardcore player.
+	PLAYER_HARDCORE_EYE_ON_YOU_Name: Everything I See
+	PLAYER_HARDCORE_EYE_ON_YOU_Description: Defeat the Eye of Cthulhu for the first time with a Hardcore player.
+	PLAYER_HARDCORE_SMASHING_POPPET_Name: If All Goes Wrong
+	PLAYER_HARDCORE_SMASHING_POPPET_Description: Smash your first Shadow Orb or Crimson Heart with a Hardcore player.
+	PLAYER_HARDCORE_WHERES_MY_HONEY_Name: Honey, I'm Home!
+	PLAYER_HARDCORE_WHERES_MY_HONEY_Description: Discover your first Bee Hive with a Hardcore player.
+	PLAYER_HARDCORE_STING_OPERATION_Name: Royal Buzzkill
+	PLAYER_HARDCORE_STING_OPERATION_Description: Defeat the Queen Bee for the first time with a Hardcore player.
+	PLAYER_HARDCORE_BONED_Name: Grave Digger
+	PLAYER_HARDCORE_BONED_Description: Defeat Skeletron for the first time with a Hardcore player.
+	PLAYER_HARDCORE_DUNGEON_HEIST_Name: Gooey Gold
+	PLAYER_HARDCORE_DUNGEON_HEIST_Description: Unlock your first Gold Chest within the Dungeon with a Hardcore player.
+	PLAYER_HARDCORE_ITS_GETTING_HOT_IN_HERE_Name: So Take Off All Your Armor
+	PLAYER_HARDCORE_ITS_GETTING_HOT_IN_HERE_Description: Reach The Underworld for the first time with a Hardcore player.
+	PLAYER_HARDCORE_MINER_FOR_FIRE_Name: Burning Desire
+	PLAYER_HARDCORE_MINER_FOR_FIRE_Description: Craft a Molten Pickaxe with a Hardcore player.
+	PLAYER_HARDCORE_STILL_HUNGRY_Name: Guts and Glory
+	PLAYER_HARDCORE_STILL_HUNGRY_Description: Defeat the Wall of Flesh for the first time with a Hardcore player.
+	PLAYER_HARDCORE_ITS_HARD_Name: Essense of Dark
+	PLAYER_HARDCORE_ITS_HARD_Description: Enter Hardmode with a Hardcore player.
+	PLAYER_HARDCORE_BEGONE_EVIL_Name: Crimson Killer
+	PLAYER_HARDCORE_BEGONE_EVIL_Description: Smash a demon or crimson altar with a Hardcore player.
+	PLAYER_HARDCORE_EXTRA_SHINY_Name: Shine On!
+	PLAYER_HARDCORE_EXTRA_SHINY_Description: Mine your first Hardmode ore with a Hardcore player.
+	PLAYER_HARDCORE_HEAD_IN_THE_CLOUDS_Name: To the Stars
+	PLAYER_HARDCORE_HEAD_IN_THE_CLOUDS_Description: Equip a pair of wings with a Hardcore player.
+	PLAYER_HARDCORE_BUCKETS_OF_BOLTS_Name: Junkyard Scraps
+	PLAYER_HARDCORE_BUCKETS_OF_BOLTS_Description: Defeat all three mechanical bosses with a Hardcore player.
+	PLAYER_HARDCORE_DRAX_ATTAX_Name: Mechanical Mining
+	PLAYER_HARDCORE_DRAX_ATTAX_Description: Craft your first Drax or Pickaxe Axe with a Hardcore player.
+	PLAYER_HARDCORE_PHOTOSYNTHESIS_Name: Green Thumb
+	PLAYER_HARDCORE_PHOTOSYNTHESIS_Description: Mine your first Chlorophyte Ore with a Hardcore player.
+	PLAYER_HARDCORE_GET_A_LIFE_Name: Starting a Family
+	PLAYER_HARDCORE_GET_A_LIFE_Description: Consume a Life Fruit with a Hardcore player.
+	PLAYER_HARDCORE_THE_GREAT_SOUTHERN_PLANTKILL_Name: Vulgar Display of Plants
+	PLAYER_HARDCORE_THE_GREAT_SOUTHERN_PLANTKILL_Description: Defeat Plantera for the first time with a Hardcore player.
+	PLAYER_HARDCORE_TEMPLE_RAIDER_Name: Spelunky
+	PLAYER_HARDCORE_TEMPLE_RAIDER_Description: Unlock the Jungle Temple's Lihzahrd Door with a Hardcore player.
+	PLAYER_HARDCORE_LIHZAHRDIAN_IDOL_Name: Lizard of Oz
+	PLAYER_HARDCORE_LIHZAHRDIAN_IDOL_Description: Defeat Golem for the first time with a Hardcore player.
+	PLAYER_HARDCORE_ROBBING_THE_GRAVE_Name: Put To Good Use
+	PLAYER_HARDCORE_ROBBING_THE_GRAVE_Description: Obtain a rare item from an enemy in the post-Plantera Dungeon with a Hardcore player.
+	PLAYER_HARDCORE_OBSESSIVE_DEVOTION_Name: Cult Killer
+	PLAYER_HARDCORE_OBSESSIVE_DEVOTION_Description: Defeat the Lunatic Cultist for the first time with a Hardcore player.
+	PLAYER_HARDCORE_STAR_DESTROYER_Name: Stairway to Heaven
+	PLAYER_HARDCORE_STAR_DESTROYER_Description: Defeat all four Celestial Pillars with a Hardcore player.
+	PLAYER_HARDCORE_CHAMPION_OF_TERRARIA_Name: Cosmic Conqueror
+	PLAYER_HARDCORE_CHAMPION_OF_TERRARIA_Description: Defeat the Moon Lord for the first time with a Hardcore player.
+}

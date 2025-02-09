@@ -1,0 +1,5 @@
+displayName = Player Achievements
+author = timenoe
+version = 0.1
+buildIgnore = *.pdn
+side = Client
