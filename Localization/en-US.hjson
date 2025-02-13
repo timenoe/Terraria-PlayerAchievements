@@ -63,7 +63,7 @@ Achievements: {
 	PLAYER_MEDIUMCORE_ROBBING_THE_GRAVE_Description: Obtain a rare item from an enemy in the post-Plantera Dungeon with a Mediumcore player.
 	PLAYER_MEDIUMCORE_OBSESSIVE_DEVOTION_Name: Cult of the Moon
 	PLAYER_MEDIUMCORE_OBSESSIVE_DEVOTION_Description: Defeat the Lunatic Cultist for the first time with a Mediumcore player.
-	PLAYER_MEDIUMCORE_STAR_DESTROYER_Name: Shoot for the Moon
+	PLAYER_MEDIUMCORE_STAR_DESTROYER_Name: Space Oddities
 	PLAYER_MEDIUMCORE_STAR_DESTROYER_Description: Defeat all four Celestial Pillars with a Mediumcore player.
 	PLAYER_MEDIUMCORE_CHAMPION_OF_TERRARIA_Name: Great Old One
 	PLAYER_MEDIUMCORE_CHAMPION_OF_TERRARIA_Description: Defeat the Moon Lord for the first time with a Mediumcore player.
@@ -129,10 +129,78 @@ Achievements: {
 	PLAYER_HARDCORE_LIHZAHRDIAN_IDOL_Description: Defeat Golem for the first time with a Hardcore player.
 	PLAYER_HARDCORE_ROBBING_THE_GRAVE_Name: Put To Good Use
 	PLAYER_HARDCORE_ROBBING_THE_GRAVE_Description: Obtain a rare item from an enemy in the post-Plantera Dungeon with a Hardcore player.
-	PLAYER_HARDCORE_OBSESSIVE_DEVOTION_Name: Cult Killer
+	PLAYER_HARDCORE_OBSESSIVE_DEVOTION_Name: Cult Cruncher
 	PLAYER_HARDCORE_OBSESSIVE_DEVOTION_Description: Defeat the Lunatic Cultist for the first time with a Hardcore player.
-	PLAYER_HARDCORE_STAR_DESTROYER_Name: Stairway to Heaven
+	PLAYER_HARDCORE_STAR_DESTROYER_Name: Shoot for the Moon
 	PLAYER_HARDCORE_STAR_DESTROYER_Description: Defeat all four Celestial Pillars with a Hardcore player.
 	PLAYER_HARDCORE_CHAMPION_OF_TERRARIA_Name: Cosmic Conqueror
 	PLAYER_HARDCORE_CHAMPION_OF_TERRARIA_Description: Defeat the Moon Lord for the first time with a Hardcore player.
+	PLAYER_HARDESTCORE_TIMBER_Name: Tree-mendous Effort
+	PLAYER_HARDESTCORE_TIMBER_Description: Chop down a tree with a Hardestcore player.
+	PLAYER_HARDESTCORE_BENCHED_Name: Progress Benchmark
+	PLAYER_HARDESTCORE_BENCHED_Description: Craft your first Work Bench with a Hardestcore player.
+	PLAYER_HARDESTCORE_NO_HOBO_Name: Sweet Home
+	PLAYER_HARDESTCORE_NO_HOBO_Description: Successfully get an NPC to move into your first house with a Hardestcore player.
+	PLAYER_HARDESTCORE_OBTAIN_HAMMER_Name: Under Pressure
+	PLAYER_HARDESTCORE_OBTAIN_HAMMER_Description: Obtain a hammer with a Hardestcore player.
+	PLAYER_HARDESTCORE_OOO_SHINY_Name: Ore-der of Operations
+	PLAYER_HARDESTCORE_OOO_SHINY_Description: Mine your first ore with a Hardestcore player.
+	PLAYER_HARDESTCORE_HEART_BREAKER_Name: Crystal Clear
+	PLAYER_HARDESTCORE_HEART_BREAKER_Description: Find and break a Life Crystal with a Hardestcore player.
+	PLAYER_HARDESTCORE_HEAVY_METAL_Name: Lead by Example
+	PLAYER_HARDESTCORE_HEAVY_METAL_Description: Obtain your first Iron or Lead Anvil with a Hardestcore player.
+	PLAYER_HARDESTCORE_I_AM_LOOT_Name: Gold Digger
+	PLAYER_HARDESTCORE_I_AM_LOOT_Description: Open an underground Gold Chest with a Hardestcore player.
+	PLAYER_HARDESTCORE_STAR_POWER_Name: Mana Madness
+	PLAYER_HARDESTCORE_STAR_POWER_Description: Consume your first Mana Crystal with a Hardestcore player.
+	PLAYER_HARDESTCORE_HOLD_ON_TIGHT_Name: Hooked for Life
+	PLAYER_HARDESTCORE_HOLD_ON_TIGHT_Description: Equip a grappling hook with a Hardestcore player.
+	PLAYER_HARDESTCORE_EYE_ON_YOU_Name: Staring Contest
+	PLAYER_HARDESTCORE_EYE_ON_YOU_Description: Defeat the Eye of Cthulhu for the first time with a Hardestcore player.
+	PLAYER_HARDESTCORE_SMASHING_POPPET_Name: Orb of Confusion
+	PLAYER_HARDESTCORE_SMASHING_POPPET_Description: Smash your first Shadow Orb or Crimson Heart with a Hardestcore player.
+	PLAYER_HARDESTCORE_WHERES_MY_HONEY_Name: Bee-yond Belief
+	PLAYER_HARDESTCORE_WHERES_MY_HONEY_Description: Discover your first Bee Hive with a Hardestcore player.
+	PLAYER_HARDESTCORE_STING_OPERATION_Name: Killer Queen
+	PLAYER_HARDESTCORE_STING_OPERATION_Description: Defeat the Queen Bee for the first time with a Hardestcore player.
+	PLAYER_HARDESTCORE_BONED_Name: Bone-A-Fide Hero
+	PLAYER_HARDESTCORE_BONED_Description: Defeat Skeletron for the first time with a Hardestcore player.
+	PLAYER_HARDESTCORE_DUNGEON_HEIST_Name: Fetch Quest
+	PLAYER_HARDESTCORE_DUNGEON_HEIST_Description: Unlock your first Gold Chest within the Dungeon with a Hardestcore player.
+	PLAYER_HARDESTCORE_ITS_GETTING_HOT_IN_HERE_Name: Highway to Hell
+	PLAYER_HARDESTCORE_ITS_GETTING_HOT_IN_HERE_Description: Reach The Underworld for the first time with a Hardestcore player.
+	PLAYER_HARDESTCORE_MINER_FOR_FIRE_Name: Molten Masterpiece
+	PLAYER_HARDESTCORE_MINER_FOR_FIRE_Description: Craft a Molten Pickaxe with a Hardestcore player.
+	PLAYER_HARDESTCORE_STILL_HUNGRY_Name: Flesh Wound
+	PLAYER_HARDESTCORE_STILL_HUNGRY_Description: Defeat the Wall of Flesh for the first time with a Hardestcore player.
+	PLAYER_HARDESTCORE_ITS_HARD_Name: Hardmode Hero
+	PLAYER_HARDESTCORE_ITS_HARD_Description: Enter Hardmode with a Hardestcore player.
+	PLAYER_HARDESTCORE_BEGONE_EVIL_Name: Smash Hit
+	PLAYER_HARDESTCORE_BEGONE_EVIL_Description: Smash a demon or crimson altar with a Hardestcore player.
+	PLAYER_HARDESTCORE_EXTRA_SHINY_Name: Ore Die Tryin'
+	PLAYER_HARDESTCORE_EXTRA_SHINY_Description: Mine your first Hardmode ore with a Hardestcore player.
+	PLAYER_HARDESTCORE_HEAD_IN_THE_CLOUDS_Name: Wingin' It
+	PLAYER_HARDESTCORE_HEAD_IN_THE_CLOUDS_Description: Equip a pair of wings with a Hardestcore player.
+	PLAYER_HARDESTCORE_BUCKETS_OF_BOLTS_Name: Metallic Menace
+	PLAYER_HARDESTCORE_BUCKETS_OF_BOLTS_Description: Defeat all three mechanical bosses with a Hardestcore player.
+	PLAYER_HARDESTCORE_DRAX_ATTAX_Name: Drax in the Box
+	PLAYER_HARDESTCORE_DRAX_ATTAX_Description: Craft your first Drax or Pickaxe Axe with a Hardestcore player.
+	PLAYER_HARDESTCORE_PHOTOSYNTHESIS_Name: Green Machine
+	PLAYER_HARDESTCORE_PHOTOSYNTHESIS_Description: Mine your first Chlorophyte Ore with a Hardestcore player.
+	PLAYER_HARDESTCORE_GET_A_LIFE_Name: Life Goes On
+	PLAYER_HARDESTCORE_GET_A_LIFE_Description: Consume a Life Fruit with a Hardestcore player.
+	PLAYER_HARDESTCORE_THE_GREAT_SOUTHERN_PLANTKILL_Name: Jungle Boogie
+	PLAYER_HARDESTCORE_THE_GREAT_SOUTHERN_PLANTKILL_Description: Defeat Plantera for the first time with a Hardestcore player.
+	PLAYER_HARDESTCORE_TEMPLE_RAIDER_Name: Temple Run
+	PLAYER_HARDESTCORE_TEMPLE_RAIDER_Description: Unlock the Jungle Temple's Lihzahrd Door with a Hardestcore player.
+	PLAYER_HARDESTCORE_LIHZAHRDIAN_IDOL_Name: Stone Cold Killer
+	PLAYER_HARDESTCORE_LIHZAHRDIAN_IDOL_Description: Defeat Golem for the first time with a Hardestcore player.
+	PLAYER_HARDESTCORE_ROBBING_THE_GRAVE_Name: Loot or Die
+	PLAYER_HARDESTCORE_ROBBING_THE_GRAVE_Description: Obtain a rare item from an enemy in the post-Plantera Dungeon with a Hardestcore player.
+	PLAYER_HARDESTCORE_OBSESSIVE_DEVOTION_Name: Cult Killer
+	PLAYER_HARDESTCORE_OBSESSIVE_DEVOTION_Description: Defeat the Lunatic Cultist for the first time with a Hardestcore player.
+	PLAYER_HARDESTCORE_STAR_DESTROYER_Name: Stairway to Heaven
+	PLAYER_HARDESTCORE_STAR_DESTROYER_Description: Defeat all four Celestial Pillars with a Hardestcore player.
+	PLAYER_HARDESTCORE_CHAMPION_OF_TERRARIA_Name: Moonlight Sonata
+	PLAYER_HARDESTCORE_CHAMPION_OF_TERRARIA_Description: Defeat the Moon Lord for the first time with a Hardestcore player.
 }

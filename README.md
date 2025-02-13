@@ -2,12 +2,17 @@
 
 Adds achievements for player difficulties to the in-game list.
 
-## Rules
+## Additions
+Hardestcore is a new difficulty that is enabled when you use a Hardcore player 
+
+## Restrictions
 - No Journey Mode
 - No Celebrationmk10 Seed
-
-## In-Game Restrictions
-The use of certain items is blocked based on the current world progression (e.g. you can't use post-Moon Lord items before defeating Moon Lord, etc.).
+- The use of certain items is blocked based on the current world progression (e.g. you can't use post-Moon Lord items before defeating Moon Lord, etc.).
 
 ## Contribute
 Contribute language localization here: https://github.com/timenoe/Terraria-PlayerAchievements
+
+## Credits
+timenoe - Developer | Achievement Icons Artist
+Cruzelion - Mod Icon Artist

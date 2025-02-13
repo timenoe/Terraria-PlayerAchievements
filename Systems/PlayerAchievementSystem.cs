@@ -21,11 +21,16 @@ namespace PlayerAchievements.Systems
         
         protected override void RegisterAchievements()
         {
+            AchievementProgression.Enable();
+            
             ConditionReqs mediumcoreReqs = new(PlayerDiff.Mediumcore, WorldDiff.Classic, SpecialSeed.None);
             RegisterProgressionAchievements("MEDIUMCORE", mediumcoreReqs);
 
             ConditionReqs hardcoreReqs = new(PlayerDiff.Hardcore, WorldDiff.Classic, SpecialSeed.None);
             RegisterProgressionAchievements("HARDCORE", hardcoreReqs);
+
+            ConditionReqs hardestcoreReqs = new(PlayerDiff.Hardestcore, WorldDiff.Classic, SpecialSeed.None);
+            RegisterProgressionAchievements("HARDESTCORE", hardestcoreReqs);
         }
 
         /// <summary>
@@ -70,7 +75,7 @@ namespace PlayerAchievements.Systems
 
             RegisterAchievement($"{id}_BONED", NpcKillCondition.Kill(reqs, true, NPCID.SkeletronHead), AchievementCategory.Slayer);
 
-            List<AchCondition> dhConds = [];
+            List<CustomAchievementCondition> dhConds = [];
             dhConds.Add(ItemGrabCondition.Grab(reqs, ItemID.GoldenKey));
             dhConds.Add(FlagProgressionCondition.Set(reqs, AchievementHelperID.Events.UnlockedGoldenChest));
             RegisterAchievement($"{id}_DUNGEON_HEIST", dhConds, false, AchievementCategory.Explorer);
@@ -88,9 +93,9 @@ namespace PlayerAchievements.Systems
             int[] hardmodeOre = [107, 108, 111, 221, 222, 223];
             RegisterAchievement($"{id}_EXTRA_SHINY", TileDestroyCondition.DestroyAny(reqs, hardmodeOre), AchievementCategory.Explorer);
 
-            RegisterAchievement($"{id}_HEAD_IN_THE_CLOUDS", ItemEquipCondition.Equip(reqs, AchData.ItemSlotContextID.EquipWings, ItemID.None), AchievementCategory.Collector);
+            RegisterAchievement($"{id}_HEAD_IN_THE_CLOUDS", ItemEquipCondition.Equip(reqs, AchievementData.ItemSlotContextID.EquipWings, ItemID.None), AchievementCategory.Collector);
 
-            List<AchCondition> bbConds = [];
+            List<CustomAchievementCondition> bbConds = [];
             bbConds.Add(NpcKillCondition.KillAny(reqs, false, [NPCID.Retinazer, NPCID.Spazmatism]));
             bbConds.AddRange(NpcKillCondition.KillAll(reqs, false, [NPCID.TheDestroyer, NPCID.SkeletronPrime]));
             RegisterAchievement($"{id}_BUCKETS_OF_BOLTS", bbConds, true, AchievementCategory.Slayer);
