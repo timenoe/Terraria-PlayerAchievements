@@ -1,6 +1,6 @@
 # Terraria PlayerAchievements
 
-Adds achievements for player difficulties to the in-game list.
+Terraria tModLoader mod that adds achievements for player difficulties to the in-game list.
 
 ## Additions
 Hardestcore is a new difficulty that is enabled when a Hardcore player is in a world that no player has died in. In other words, you can't create a new Hardcore player to continue in a world that you previously died in.
