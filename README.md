@@ -20,9 +20,8 @@ Terraria tModLoader mod that adds achievements for player difficulties to the in
 Achievements are stackable (e.g. earning an achievement on Hardestcore Mode would also earn the equivalent achievements for Mediumcore/Hardcore). However, it is recommended to work your way up if you are a newer player.
 
 ## Credits
-timenoe - Developer, Achievement Icon Artist
-
-BahamutVoid - Design Feedback, Testing
-Cruzelion - Mod Icon Artist
-Searo - Design Feedback, Testing
-SubliminalSiren - Testing
+- timenoe - Developer, Achievement Icon Artist
+- BahamutVoid - Design Feedback, Testing
+- Cruzelion - Mod Icon Artist
+- Searo - Design Feedback, Testing
+- SubliminalSiren - Testing
