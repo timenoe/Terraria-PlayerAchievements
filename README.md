@@ -5,7 +5,7 @@ Terraria tModLoader mod that adds achievements for player difficulties to the in
 ## Additions
 `Hardestcore` is a new difficulty that is enabled when the following conditions are satisfied:
 - Using a Hardcore player that was created with this mod enabled.
-- Using a Hardcore player who has only visited one world.
+- Using a Hardcore player that hasn't visited any other worlds.
 - Using a Hardcore player that has not died before (no save scumming).
 - Playing in a world that was created with this mod enabled.
 - Playing in a world that has not been visited by a non-Hardcore player.
