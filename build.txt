@@ -1,5 +1,7 @@
 displayName = Player Achievements
 author = timenoe
-version = 1.0
+version = 1.0.0
+homepage = https://github.com/timenoe/Terraria-PlayerAchievements
 buildIgnore = *.pdn
 side = Client
+sortBefore = WorldAchievements
