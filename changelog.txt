@@ -1,2 +1,5 @@
+v1.0.2
+- Fix ammo bug (update submodule)
+
 v1.0.1
 - Fixed Hardestcore unlocks
