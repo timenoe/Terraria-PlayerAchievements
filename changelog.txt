@@ -1,3 +1,6 @@
+v1.0.4
+- Only enforce progression on Mediumcore or greater players
+
 v1.0.3
 - Actually fixed ammo bug (updated TerrariaAchievementLib submodule)
 

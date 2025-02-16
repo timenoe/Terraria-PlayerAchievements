@@ -21,7 +21,7 @@ namespace PlayerAchievements.Systems
         
         protected override void RegisterAchievements()
         {
-            AchievementProgression.Enable();
+            AchievementProgression.Enable(ProgressionRestriction.Player);
             
             ConditionReqs mediumcoreReqs = new(PlayerDiff.Mediumcore, WorldDiff.Classic, SpecialSeed.None);
             RegisterProgressionAchievements("MEDIUMCORE", mediumcoreReqs);
