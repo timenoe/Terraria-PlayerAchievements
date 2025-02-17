@@ -1,4 +1,6 @@
 v1.0.4
+- Fix possible crash when reloading the mod in-game and playing Hardestcore
+- Fix unintended blocking of the Snowball Cannon
 - Only enforce progression on Mediumcore or greater players
 
 v1.0.3
