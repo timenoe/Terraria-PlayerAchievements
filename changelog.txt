@@ -1,3 +1,6 @@
+v1.0.5
+- Fixed potential wiping of progress when earning achievements without this mod enabled
+
 v1.0.4
 - Fix possible softlock when reloading the mod in-game and playing Hardestcore
 - Fix unintended blocking of the Snowball Cannon
