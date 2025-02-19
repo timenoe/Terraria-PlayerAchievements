@@ -1,3 +1,6 @@
+v1.0.8
+- Fixed Hallowed Headgear not being included
+
 v1.0.7
 - Fixed unintended blocking of the UFO
 
