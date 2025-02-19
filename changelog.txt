@@ -1,3 +1,7 @@
+v1.0.6
+- Fixed enforced progression for the Remix seed
+- Fixed unintended blocking of the Poison Staff
+
 v1.0.5
 - Fixed potential wiping of progress when earning achievements without this mod enabled
 
