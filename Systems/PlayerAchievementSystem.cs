@@ -93,7 +93,7 @@ namespace PlayerAchievements.Systems
             int[] hardmodeOre = [107, 108, 111, 221, 222, 223];
             RegisterAchievement($"{id}_EXTRA_SHINY", TileDestroyCondition.DestroyAny(reqs, hardmodeOre), AchievementCategory.Explorer);
 
-            RegisterAchievement($"{id}_HEAD_IN_THE_CLOUDS", ItemEquipCondition.Equip(reqs, AchievementData.ItemSlotContextID.EquipWings, ItemID.None), AchievementCategory.Collector);
+            RegisterAchievement($"{id}_HEAD_IN_THE_CLOUDS", ItemEquipCondition.Equip(reqs, AchievementData.CustomItemSlotContextID.EquipWings, ItemID.None), AchievementCategory.Collector);
 
             List<CustomAchievementCondition> bbConds = [];
             bbConds.Add(NpcKillCondition.KillAny(reqs, false, [NPCID.Retinazer, NPCID.Spazmatism]));
