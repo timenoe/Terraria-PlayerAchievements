@@ -1,3 +1,6 @@
+v1.0.14
+- Added netcode to unlock item achievements in multiplayer
+
 v1.0.13
 - Tweaked enforced progression
 
