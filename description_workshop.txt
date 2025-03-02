@@ -4,40 +4,36 @@ Terraria tModLoader mod that adds achievements for player difficulties to the in
 
 
 [b][u]Additions[/u][/b]
-
-[quote]
 [i]Hardestcore[/i] is a new difficulty that is enabled when the following conditions are satisfied:
-• Using a Hardcore player that was created with this mod enabled.
-• Using a Hardcore player that hasn’t visited any other worlds.
-• Using a Hardcore player that has not died before.
-• Playing in a world that was created with this mod enabled.
-• Playing in a world that has not been visited by a non-Hardcore player.
-• Playing in a world that a Hardcore player has not died in.
-[/quote]
+[list]
+[*] Using a Hardcore player that was created with this mod enabled.
+[*] Using a Hardcore player that hasn’t visited any other worlds.
+[*] Using a Hardcore player that has not died before.
+[*] Playing in a world that was created with this mod enabled.
+[*] Playing in a world that has not been visited by a non-Hardcore player.
+[*] Playing in a world that a Hardcore player has not died in.
+[/list]
 
 
 [b][u]Restrictions[/u][/b]
-
-[quote]
-• Enforced Progression (e.g. you can’t use post-Moon Lord items before defeating Moon Lord, etc.)
-• No Journey Mode
-• No Celebrationmk10 Seed
-[/quote]
+[list]
+[*] Enforced Progression (e.g. you can’t use post-Moon Lord items before defeating Moon Lord, etc.)
+[*] No Journey Mode
+[*] No Celebrationmk10 Seed
+[/list]
 
 
 [b][u]Notes[/u][/b]
-
 [quote]
 Achievements are stackable (e.g. earning an achievement on Hardestcore would also earn the equivalent achievements for Mediumcore/Hardcore). However, it is recommended to work your way up if you are a newer player.
 [/quote]
 
 
 [b][u]Credits[/u][/b]
-
-[quote]
-• timenoe - Developer, Achievement Icons Artist
-• BahamutVoid - Design Feedback, Testing
-• Cruzelion - Mod Icon Artist
-• Searo - Design Feedback, Testing
-• SubliminalSiren - Testing
-[/quote]
+[list]
+[*] timenoe - Developer, Achievement Icons Artist
+[*] BahamutVoid - Design Feedback, Testing
+[*] Cruzelion - Mod Icon Artist
+[*] Searo - Design Feedback, Testing
+[*] SubliminalSiren - Testing
+[/list]
