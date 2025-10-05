@@ -8,6 +8,9 @@
 
 Terraria tModLoader mod that adds achievements for player difficulties to the in-game list.
 
+## Notice
+The upgrade from v1.0.14 to v1.1.0 resulted in a save file imcompatability for custom achievements. Download [this GUI](https://github.com/timenoe/Terraria-RetroAchievements-Save-Converter/releases/download/v1/save_converter.zip) to convert your save file to the new format to keep progress.
+
 ## Additions
 `Hardestcore` is a new difficulty that is enabled when the following conditions are satisfied:
 - Using a Hardcore player that was created with this mod enabled.
