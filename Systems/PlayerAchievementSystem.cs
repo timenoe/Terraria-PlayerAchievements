@@ -1,5 +1,6 @@
 ﻿using Terraria;
 using TerrariaAchievementLib.Achievements;
+using TerrariaAchievementLib.Players;
 using TerrariaAchievementLib.Systems;
 
 namespace PlayerAchievements.Systems
@@ -16,6 +17,7 @@ namespace PlayerAchievements.Systems
 
             base.OnModLoad();
             AchievementProgression.Enable(ProgressionRestriction.Player);
+            HardestcorePlayer.Enable();
         }
     }
 }
