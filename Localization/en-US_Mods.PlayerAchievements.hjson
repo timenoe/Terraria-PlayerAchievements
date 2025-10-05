@@ -1,3 +1,515 @@
+Achievements: {
+	MediumcoreTimberAchievement: {
+		FriendlyName: Chop 'Til You Drop
+		Description: Chop down a tree with a Mediumcore player.
+	}
+
+	MediumcoreBenchedAchievement: {
+		FriendlyName: The Guide's Apprentice
+		Description: Craft your first Work Bench with a Mediumcore player.
+	}
+
+	MediumcoreNoHoboAchievement: {
+		FriendlyName: Totally Not the Bare Minimum
+		Description: Successfully get an NPC to move into your first house with a Mediumcore player.
+	}
+
+	MediumcoreObtainHammerAchievement: {
+		FriendlyName: Go With the Flow
+		Description: Obtain a hammer with a Mediumcore player.
+	}
+
+	MediumcoreOooShinyAchievement: {
+		FriendlyName: Oresome Discovery
+		Description: Mine your first ore with a Mediumcore player.
+	}
+
+	MediumcoreHeartBreakerAchievement: {
+		FriendlyName: Dream Maker
+		Description: Find and break a Life Crystal with a Mediumcore player.
+	}
+
+	MediumcoreHeavyMetalAchievement: {
+		FriendlyName: Rock Solid
+		Description: Obtain your first Iron or Lead Anvil with a Mediumcore player.
+	}
+
+	MediumcoreIAmLootAchievement: {
+		FriendlyName: Gimme the Loot
+		Description: Open an underground Gold Chest with a Mediumcore player.
+	}
+
+	MediumcoreStarPowerAchievement: {
+		FriendlyName: Crystal Channeller
+		Description: Consume your first Mana Crystal with a Mediumcore player.
+	}
+
+	MediumcoreHoldOnTightAchievement: {
+		FriendlyName: Hookshot Hero
+		Description: Equip a grappling hook with a Mediumcore player.
+	}
+
+	MediumcoreEyeOnYouAchievement: {
+		FriendlyName: One Eye Open
+		Description: Defeat the Eye of Cthulhu for the first time with a Mediumcore player.
+	}
+
+	MediumcoreSmashingPoppetAchievement: {
+		FriendlyName: Shiny and Oh So Bright
+		Description: Smash your first Shadow Orb or Crimson Heart with a Mediumcore player.
+	}
+
+	MediumcoreWheresMyHoneyAchievement: {
+		FriendlyName: Oh, Honey
+		Description: Discover your first Bee Hive with a Mediumcore player.
+	}
+
+	MediumcoreStingOperationAchievement: {
+		FriendlyName: Bee Gone
+		Description: Defeat the Queen Bee for the first time with a Mediumcore player.
+	}
+
+	MediumcoreBonedAchievement: {
+		FriendlyName: Bone to Pick
+		Description: Defeat Skeletron for the first time with a Mediumcore player.
+	}
+
+	MediumcoreDungeonHeistAchievement: {
+		FriendlyName: Slimy Spoils
+		Description: Unlock your first Gold Chest within the Dungeon with a Mediumcore player.
+	}
+
+	MediumcoreItsGettingHotInHereAchievement: {
+		FriendlyName: I'm Getting So Hot
+		Description: Reach The Underworld for the first time with a Mediumcore player.
+	}
+
+	MediumcoreMinerForFireAchievement: {
+		FriendlyName: Forged in Flames
+		Description: Craft a Molten Pickaxe with a Mediumcore player.
+	}
+
+	MediumcoreStillHungryAchievement: {
+		FriendlyName: Feeding Frenzy
+		Description: Defeat the Wall of Flesh for the first time with a Mediumcore player.
+	}
+
+	MediumcoreItsHardAchievement: {
+		FriendlyName: Essence of Light
+		Description: Enter Hardmode with a Mediumcore player.
+	}
+
+	MediumcoreBegoneEvilAchievement: {
+		FriendlyName: Demon Destroyer
+		Description: Smash a demon or crimson altar with a Mediumcore player.
+	}
+
+	MediumcoreExtraShinyAchievement: {
+		FriendlyName: Metallic Madness
+		Description: Mine your first Hardmode ore with a Mediumcore player.
+	}
+
+	MediumcoreHeadInTheCloudsAchievement: {
+		FriendlyName: To the Moon
+		Description: Equip a pair of wings with a Mediumcore player.
+	}
+
+	MediumcoreBucketsOfBoltsAchievement: {
+		FriendlyName: Heap of Junk
+		Description: Defeat all three mechanical bosses with a Mediumcore player.
+	}
+
+	MediumcoreDraxAttaxAchievement: {
+		FriendlyName: Not a Picksaw
+		Description: Craft your first Drax or Pickaxe Axe with a Mediumcore player.
+	}
+
+	MediumcorePhotosynthesisAchievement: {
+		FriendlyName: Plant Power
+		Description: Mine your first Chlorophyte Ore with a Mediumcore player.
+	}
+
+	MediumcoreGetALifeAchievement: {
+		FriendlyName: Entering a Career
+		Description: Consume a Life Fruit with a Mediumcore player.
+	}
+
+	MediumcoreTheGreatSouthernPlantkillAchievement: {
+		FriendlyName: Far Beyond the Jungle
+		Description: Defeat Plantera for the first time with a Mediumcore player.
+	}
+
+	MediumcoreTempleRaiderAchievement: {
+		FriendlyName: La-Mulana
+		Description: Unlock the Jungle Temple's Lihzahrd Door with a Mediumcore player.
+	}
+
+	MediumcoreLihzahrdianIdolAchievement: {
+		FriendlyName: Off to See the Lizard
+		Description: Defeat Golem for the first time with a Mediumcore player.
+	}
+
+	MediumcoreRobbingTheGraveAchievement: {
+		FriendlyName: From Beyond the Grave
+		Description: Obtain a rare item from an enemy in the post-Plantera Dungeon with a Mediumcore player.
+	}
+
+	MediumcoreObsessiveDevotionAchievement: {
+		FriendlyName: Cult of the Moon
+		Description: Defeat the Lunatic Cultist for the first time with a Mediumcore player.
+	}
+
+	MediumcoreStarDestroyerAchievement: {
+		FriendlyName: Space Oddities
+		Description: Defeat all four Celestial Pillars with a Mediumcore player.
+	}
+
+	MediumcoreChampionOfTerrariaAchievement: {
+		FriendlyName: Great Old One
+		Description: Defeat the Moon Lord for the first time with a Mediumcore player.
+	}
+
+	HardcoreTimberAchievement: {
+		FriendlyName: Root Awakening
+		Description: Chop down a tree with a Hardcore player.
+	}
+
+	HardcoreBenchedAchievement: {
+		FriendlyName: Get to Work!
+		Description: Craft your first Work Bench with a Hardcore player.
+	}
+
+	HardcoreNoHoboAchievement: {
+		FriendlyName: Terraria's Best Landlord
+		Description: Successfully get an NPC to move into your first house with a Hardcore player.
+	}
+
+	HardcoreObtainHammerAchievement: {
+		FriendlyName: Bust a Few Moves
+		Description: Obtain a hammer with a Hardcore player.
+	}
+
+	HardcoreOooShinyAchievement: {
+		FriendlyName: Treasure Trove
+		Description: Mine your first ore with a Hardcore player.
+	}
+
+	HardcoreHeartBreakerAchievement: {
+		FriendlyName: Love Taker
+		Description: Find and break a Life Crystal with a Hardcore player.
+	}
+
+	HardcoreHeavyMetalAchievement: {
+		FriendlyName: Iron Will
+		Description: Obtain your first Iron or Lead Anvil with a Hardcore player.
+	}
+
+	HardcoreIAmLootAchievement: {
+		FriendlyName: What's Yours Is Mine
+		Description: Open an underground Gold Chest with a Hardcore player.
+	}
+
+	HardcoreStarPowerAchievement: {
+		FriendlyName: Magic Multiplier
+		Description: Consume your first Mana Crystal with a Hardcore player.
+	}
+
+	HardcoreHoldOnTightAchievement: {
+		FriendlyName: Captain Hook
+		Description: Equip a grappling hook with a Hardcore player.
+	}
+
+	HardcoreEyeOnYouAchievement: {
+		FriendlyName: Everything I See
+		Description: Defeat the Eye of Cthulhu for the first time with a Hardcore player.
+	}
+
+	HardcoreSmashingPoppetAchievement: {
+		FriendlyName: If All Goes Wrong
+		Description: Smash your first Shadow Orb or Crimson Heart with a Hardcore player.
+	}
+
+	HardcoreWheresMyHoneyAchievement: {
+		FriendlyName: Honey, I'm Home!
+		Description: Discover your first Bee Hive with a Hardcore player.
+	}
+
+	HardcoreStingOperationAchievement: {
+		FriendlyName: Royal Buzzkill
+		Description: Defeat the Queen Bee for the first time with a Hardcore player.
+	}
+
+	HardcoreBonedAchievement: {
+		FriendlyName: Grave Digger
+		Description: Defeat Skeletron for the first time with a Hardcore player.
+	}
+
+	HardcoreDungeonHeistAchievement: {
+		FriendlyName: Gooey Gold
+		Description: Unlock your first Gold Chest within the Dungeon with a Hardcore player.
+	}
+
+	HardcoreItsGettingHotInHereAchievement: {
+		FriendlyName: So Take Off All Your Armor
+		Description: Reach The Underworld for the first time with a Hardcore player.
+	}
+
+	HardcoreMinerForFireAchievement: {
+		FriendlyName: Burning Desire
+		Description: Craft a Molten Pickaxe with a Hardcore player.
+	}
+
+	HardcoreStillHungryAchievement: {
+		FriendlyName: Guts and Glory
+		Description: Defeat the Wall of Flesh for the first time with a Hardcore player.
+	}
+
+	HardcoreItsHardAchievement: {
+		FriendlyName: Essense of Dark
+		Description: Enter Hardmode with a Hardcore player.
+	}
+
+	HardcoreBegoneEvilAchievement: {
+		FriendlyName: Crimson Killer
+		Description: Smash a demon or crimson altar with a Hardcore player.
+	}
+
+	HardcoreExtraShinyAchievement: {
+		FriendlyName: Shine On!
+		Description: Mine your first Hardmode ore with a Hardcore player.
+	}
+
+	HardcoreHeadInTheCloudsAchievement: {
+		FriendlyName: To the Stars
+		Description: Equip a pair of wings with a Hardcore player.
+	}
+
+	HardcoreBucketsOfBoltsAchievement: {
+		FriendlyName: Junkyard Scraps
+		Description: Defeat all three mechanical bosses with a Hardcore player.
+	}
+
+	HardcoreDraxAttaxAchievement: {
+		FriendlyName: Mechanical Mining
+		Description: Craft your first Drax or Pickaxe Axe with a Hardcore player.
+	}
+
+	HardcorePhotosynthesisAchievement: {
+		FriendlyName: Green Thumb
+		Description: Mine your first Chlorophyte Ore with a Hardcore player.
+	}
+
+	HardcoreGetALifeAchievement: {
+		FriendlyName: Starting a Family
+		Description: Consume a Life Fruit with a Hardcore player.
+	}
+
+	HardcoreTheGreatSouthernPlantkillAchievement: {
+		FriendlyName: Vulgar Display of Plants
+		Description: Defeat Plantera for the first time with a Hardcore player.
+	}
+
+	HardcoreTempleRaiderAchievement: {
+		FriendlyName: Spelunky
+		Description: Unlock the Jungle Temple's Lihzahrd Door with a Hardcore player.
+	}
+
+	HardcoreLihzahrdianIdolAchievement: {
+		FriendlyName: Lizard of Oz
+		Description: Defeat Golem for the first time with a Hardcore player.
+	}
+
+	HardcoreRobbingTheGraveAchievement: {
+		FriendlyName: Put To Good Use
+		Description: Obtain a rare item from an enemy in the post-Plantera Dungeon with a Hardcore player.
+	}
+
+	HardcoreObsessiveDevotionAchievement: {
+		FriendlyName: Cult Cruncher
+		Description: Defeat the Lunatic Cultist for the first time with a Hardcore player.
+	}
+
+	HardcoreStarDestroyerAchievement: {
+		FriendlyName: Shoot for the Moon
+		Description: Defeat all four Celestial Pillars with a Hardcore player.
+	}
+
+	HardcoreChampionOfTerrariaAchievement: {
+		FriendlyName: Cosmic Conqueror
+		Description: Defeat the Moon Lord for the first time with a Hardcore player.
+	}
+
+	HardestcoreTimberAchievement: {
+		FriendlyName: Tree-mendous Effort
+		Description: Chop down a tree with a Hardestcore player.
+	}
+
+	HardestcoreBenchedAchievement: {
+		FriendlyName: Progress Benchmark
+		Description: Craft your first Work Bench with a Hardestcore player.
+	}
+
+	HardestcoreNoHoboAchievement: {
+		FriendlyName: Sweet Home
+		Description: Successfully get an NPC to move into your first house with a Hardestcore player.
+	}
+
+	HardestcoreObtainHammerAchievement: {
+		FriendlyName: Under Pressure
+		Description: Obtain a hammer with a Hardestcore player.
+	}
+
+	HardestcoreOooShinyAchievement: {
+		FriendlyName: Ore-der of Operations
+		Description: Mine your first ore with a Hardestcore player.
+	}
+
+	HardestcoreHeartBreakerAchievement: {
+		FriendlyName: Crystal Clear
+		Description: Find and break a Life Crystal with a Hardestcore player.
+	}
+
+	HardestcoreHeavyMetalAchievement: {
+		FriendlyName: Lead by Example
+		Description: Obtain your first Iron or Lead Anvil with a Hardestcore player.
+	}
+
+	HardestcoreIAmLootAchievement: {
+		FriendlyName: Gold Digger
+		Description: Open an underground Gold Chest with a Hardestcore player.
+	}
+
+	HardestcoreStarPowerAchievement: {
+		FriendlyName: Mana Madness
+		Description: Consume your first Mana Crystal with a Hardestcore player.
+	}
+
+	HardestcoreHoldOnTightAchievement: {
+		FriendlyName: Hooked for Life
+		Description: Equip a grappling hook with a Hardestcore player.
+	}
+
+	HardestcoreEyeOnYouAchievement: {
+		FriendlyName: Staring Contest
+		Description: Defeat the Eye of Cthulhu for the first time with a Hardestcore player.
+	}
+
+	HardestcoreSmashingPoppetAchievement: {
+		FriendlyName: Orb of Confusion
+		Description: Smash your first Shadow Orb or Crimson Heart with a Hardestcore player.
+	}
+
+	HardestcoreWheresMyHoneyAchievement: {
+		FriendlyName: Bee-yond Belief
+		Description: Discover your first Bee Hive with a Hardestcore player.
+	}
+
+	HardestcoreStingOperationAchievement: {
+		FriendlyName: Killer Queen
+		Description: Defeat the Queen Bee for the first time with a Hardestcore player.
+	}
+
+	HardestcoreBonedAchievement: {
+		FriendlyName: Bone-A-Fide Hero
+		Description: Defeat Skeletron for the first time with a Hardestcore player.
+	}
+
+	HardestcoreDungeonHeistAchievement: {
+		FriendlyName: Fetch Quest
+		Description: Unlock your first Gold Chest within the Dungeon with a Hardestcore player.
+	}
+
+	HardestcoreItsGettingHotInHereAchievement: {
+		FriendlyName: Highway to Hell
+		Description: Reach The Underworld for the first time with a Hardestcore player.
+	}
+
+	HardestcoreMinerForFireAchievement: {
+		FriendlyName: Molten Masterpiece
+		Description: Craft a Molten Pickaxe with a Hardestcore player.
+	}
+
+	HardestcoreStillHungryAchievement: {
+		FriendlyName: Flesh Wound
+		Description: Defeat the Wall of Flesh for the first time with a Hardestcore player.
+	}
+
+	HardestcoreItsHardAchievement: {
+		FriendlyName: Hardmode Hero
+		Description: Enter Hardmode with a Hardestcore player.
+	}
+
+	HardestcoreBegoneEvilAchievement: {
+		FriendlyName: Smash Hit
+		Description: Smash a demon or crimson altar with a Hardestcore player.
+	}
+
+	HardestcoreExtraShinyAchievement: {
+		FriendlyName: Ore Die Tryin'
+		Description: Mine your first Hardmode ore with a Hardestcore player.
+	}
+
+	HardestcoreHeadInTheCloudsAchievement: {
+		FriendlyName: Wingin' It
+		Description: Equip a pair of wings with a Hardestcore player.
+	}
+
+	HardestcoreBucketsOfBoltsAchievement: {
+		FriendlyName: Metallic Menace
+		Description: Defeat all three mechanical bosses with a Hardestcore player.
+	}
+
+	HardestcoreDraxAttaxAchievement: {
+		FriendlyName: Drax in the Box
+		Description: Craft your first Drax or Pickaxe Axe with a Hardestcore player.
+	}
+
+	HardestcorePhotosynthesisAchievement: {
+		FriendlyName: Green Machine
+		Description: Mine your first Chlorophyte Ore with a Hardestcore player.
+	}
+
+	HardestcoreGetALifeAchievement: {
+		FriendlyName: Life Goes On
+		Description: Consume a Life Fruit with a Hardestcore player.
+	}
+
+	HardestcoreTheGreatSouthernPlantkillAchievement: {
+		FriendlyName: Jungle Boogie
+		Description: Defeat Plantera for the first time with a Hardestcore player.
+	}
+
+	HardestcoreTempleRaiderAchievement: {
+		FriendlyName: Temple Run
+		Description: Unlock the Jungle Temple's Lihzahrd Door with a Hardestcore player.
+	}
+
+	HardestcoreLihzahrdianIdolAchievement: {
+		FriendlyName: Stone Cold Killer
+		Description: Defeat Golem for the first time with a Hardestcore player.
+	}
+
+	HardestcoreRobbingTheGraveAchievement: {
+		FriendlyName: Loot or Die
+		Description: Obtain a rare item from an enemy in the post-Plantera Dungeon with a Hardestcore player.
+	}
+
+	HardestcoreObsessiveDevotionAchievement: {
+		FriendlyName: Cult Killer
+		Description: Defeat the Lunatic Cultist for the first time with a Hardestcore player.
+	}
+
+	HardestcoreStarDestroyerAchievement: {
+		FriendlyName: Stairway to Heaven
+		Description: Defeat all four Celestial Pillars with a Hardestcore player.
+	}
+
+	HardestcoreChampionOfTerrariaAchievement: {
+		FriendlyName: Moonlight Sonata
+		Description: Defeat the Moon Lord for the first time with a Hardestcore player.
+	}
+}
+
 Buffs: {
 	HardestcoreBuff: {
 		DisplayName: Hardestcore
